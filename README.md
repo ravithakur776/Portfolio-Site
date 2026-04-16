@@ -2,6 +2,8 @@
 
 A modern personal portfolio website built with Next.js, Tailwind CSS, and Framer Motion.
 
+Live Site: `https://my-portfolio-ravith776-5889s-projects.vercel.app`
+
 ## Overview
 
 This project showcases Ravi Thakur's profile, skills, projects, experience, and contact information in a clean, responsive, animation-rich layout.
@@ -71,6 +73,8 @@ Update section UI in:
 ## Deployment
 
 This project can be deployed on Vercel or any platform that supports Next.js.
+
+Production URL: `https://my-portfolio-ravith776-5889s-projects.vercel.app`
 
 ## Repository
 
