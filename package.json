@@ -1,6 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
+  "description": "Personal portfolio website of Ravi Thakur built with Next.js, Tailwind CSS, and Framer Motion.",
   "private": true,
   "scripts": {
     "dev": "next dev",
