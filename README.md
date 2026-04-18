@@ -2,7 +2,7 @@
 
 A modern, interactive personal portfolio showcasing full-stack development skills, projects, and creative UI/UX design.
 
-🌐 **Live Site:**  
+🌐 **Live Site:**
 https://my-portfolio-ravith776-5889s-projects.vercel.app
 
 ---
@@ -15,7 +15,7 @@ Designed to create a strong first impression, the website focuses on modern UI, 
 
 ---
 
-## 🔥 Features
+## 🔥 **Features**
 
 - 📱 Fully Responsive (Desktop, Tablet, Mobile)
 - 🎬 Smooth Scroll Animations (Framer Motion)
@@ -27,7 +27,7 @@ Designed to create a strong first impression, the website focuses on modern UI, 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ *Tech Stack*
 
 - **Framework:** Next.js (App Router)
 - **Library:** React
@@ -37,7 +37,7 @@ Designed to create a strong first impression, the website focuses on modern UI, 
 
 ---
 
-## 📁 Project Structure
+## 📁 *Project Structure*
 app/
 components/
 ui/
