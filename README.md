@@ -15,7 +15,7 @@ Designed to create a strong first impression, the website focuses on modern UI, 
 
 ---
 
-## 🔥 **Features**
+## 🔥 *Features*
 
 - 📱 Fully Responsive (Desktop, Tablet, Mobile)
 - 🎬 Smooth Scroll Animations (Framer Motion)
