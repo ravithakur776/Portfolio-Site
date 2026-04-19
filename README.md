@@ -1,4 +1,4 @@
-# 🚀 Ravi Thakur Portfolio
+# 🚀 *Ravi Thakur Portfolio*
 
 A modern, interactive personal portfolio showcasing full-stack development skills, projects, and creative UI/UX design.
 
@@ -7,7 +7,7 @@ https://my-portfolio-ravith776-5889s-projects.vercel.app
 
 ---
 
-## ✨ Overview
+## ✨ *Overview*
 
 This portfolio represents my journey as an aspiring full-stack developer. It highlights my projects, technical skills, and experience through a clean, responsive, and animation-rich interface.
 
