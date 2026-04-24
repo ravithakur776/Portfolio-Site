@@ -98,5 +98,5 @@ If you like this project, consider giving it a ⭐ on GitHub!
 
 <p align="center"> Made with ❤️ by Ravi Thakur </p> ```
 
-..
+.
 
