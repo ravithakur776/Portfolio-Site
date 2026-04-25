@@ -97,5 +97,3 @@ I am an aspiring full-stack developer passionate about building scalable web app
 If you like this project, consider giving it a ⭐ on GitHub!
 
 <p align="center"> Made with ❤️ by Ravi Thakur </p> ```
-
-,,
